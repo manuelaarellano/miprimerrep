@@ -4,5 +4,6 @@
 <title> Hola </title>
 </head>
 <?php echo '<p>Hola mundo</p>'; ?>
+<image src="index.png"/>
 </body>
 </html>
